@@ -1,0 +1,77 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.19.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/.npmrc
+5 silly config load:file:/usr/src/node-red/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm install node-red-contrib-cron-plus@2.1.0
+8 verbose argv "install" "--no-audit" "--no-update-notifier" "--no-fund" "--save" "--save-prefix" "~" "--omit" "dev" "--engine-strict" "node-red-contrib-cron-plus@2.1.0"
+9 verbose logfile logs-max:10 dir:/data/.npm/_logs/2025-04-05T11_45_10_310Z-
+10 verbose logfile /data/.npm/_logs/2025-04-05T11_45_10_310Z-debug-0.log
+11 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly fetch manifest node-red-contrib-cron-plus@2.1.0
+15 silly packumentCache full:https://registry.npmjs.org/node-red-contrib-cron-plus cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/node-red-contrib-cron-plus 1221ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/node-red-contrib-cron-plus set size:undefined disposed:false
+18 silly placeDep ROOT node-red-contrib-cron-plus@2.1.0 OK for: node-red-project@0.0.1 want: 2.1.0
+19 silly fetch manifest coord-parser@^1.0.0
+20 silly packumentCache full:https://registry.npmjs.org/coord-parser cache-miss
+21 silly fetch manifest cronosjs@^1.7.1
+22 silly packumentCache full:https://registry.npmjs.org/cronosjs cache-miss
+23 silly fetch manifest cronstrue@^2.28.0
+24 silly packumentCache full:https://registry.npmjs.org/cronstrue cache-miss
+25 silly fetch manifest pretty-ms@7.0.1
+26 silly packumentCache full:https://registry.npmjs.org/pretty-ms cache-miss
+27 silly fetch manifest suncalc2@^1.8.1
+28 silly packumentCache full:https://registry.npmjs.org/suncalc2 cache-miss
+29 http fetch GET 200 https://registry.npmjs.org/pretty-ms 293ms (cache miss)
+30 silly packumentCache full:https://registry.npmjs.org/pretty-ms set size:undefined disposed:false
+31 http fetch GET 200 https://registry.npmjs.org/cronstrue 392ms (cache miss)
+32 silly packumentCache full:https://registry.npmjs.org/cronstrue set size:undefined disposed:false
+33 http fetch GET 200 https://registry.npmjs.org/coord-parser 787ms (cache miss)
+34 silly packumentCache full:https://registry.npmjs.org/coord-parser set size:undefined disposed:false
+35 http fetch GET 200 https://registry.npmjs.org/suncalc2 978ms (cache miss)
+36 silly packumentCache full:https://registry.npmjs.org/suncalc2 set size:undefined disposed:false
+37 http fetch GET 200 https://registry.npmjs.org/cronosjs 981ms (cache miss)
+38 silly packumentCache full:https://registry.npmjs.org/cronosjs set size:undefined disposed:false
+39 silly placeDep ROOT coord-parser@1.0.0 OK for: node-red-contrib-cron-plus@2.1.0 want: ^1.0.0
+40 silly placeDep ROOT cronosjs@1.7.1 OK for: node-red-contrib-cron-plus@2.1.0 want: ^1.7.1
+41 silly placeDep ROOT cronstrue@2.57.0 OK for: node-red-contrib-cron-plus@2.1.0 want: ^2.28.0
+42 silly placeDep ROOT pretty-ms@7.0.1 OK for: node-red-contrib-cron-plus@2.1.0 want: 7.0.1
+43 silly placeDep ROOT suncalc2@1.8.1 OK for: node-red-contrib-cron-plus@2.1.0 want: ^1.8.1
+44 silly fetch manifest parse-ms@^2.1.0
+45 silly packumentCache full:https://registry.npmjs.org/parse-ms cache-miss
+46 http fetch GET 200 https://registry.npmjs.org/parse-ms 146ms (cache miss)
+47 silly packumentCache full:https://registry.npmjs.org/parse-ms set size:undefined disposed:false
+48 silly placeDep ROOT parse-ms@2.1.0 OK for: pretty-ms@7.0.1 want: ^2.1.0
+49 silly reify moves {}
+50 silly tarball no local data for cronstrue@https://registry.npmjs.org/cronstrue/-/cronstrue-2.57.0.tgz. Extracting by manifest.
+51 silly tarball no local data for parse-ms@https://registry.npmjs.org/parse-ms/-/parse-ms-2.1.0.tgz. Extracting by manifest.
+52 silly tarball no local data for cronosjs@https://registry.npmjs.org/cronosjs/-/cronosjs-1.7.1.tgz. Extracting by manifest.
+53 silly tarball no local data for pretty-ms@https://registry.npmjs.org/pretty-ms/-/pretty-ms-7.0.1.tgz. Extracting by manifest.
+54 silly tarball no local data for suncalc2@https://registry.npmjs.org/suncalc2/-/suncalc2-1.8.1.tgz. Extracting by manifest.
+55 silly tarball no local data for node-red-contrib-cron-plus@https://registry.npmjs.org/node-red-contrib-cron-plus/-/node-red-contrib-cron-plus-2.1.0.tgz. Extracting by manifest.
+56 silly tarball no local data for coord-parser@https://registry.npmjs.org/coord-parser/-/coord-parser-1.0.0.tgz. Extracting by manifest.
+57 http fetch GET 200 https://registry.npmjs.org/pretty-ms/-/pretty-ms-7.0.1.tgz 170ms (cache miss)
+58 http fetch GET 200 https://registry.npmjs.org/parse-ms/-/parse-ms-2.1.0.tgz 204ms (cache miss)
+59 http fetch GET 200 https://registry.npmjs.org/suncalc2/-/suncalc2-1.8.1.tgz 216ms (cache miss)
+60 http fetch GET 200 https://registry.npmjs.org/cronosjs/-/cronosjs-1.7.1.tgz 229ms (cache miss)
+61 http fetch GET 200 https://registry.npmjs.org/coord-parser/-/coord-parser-1.0.0.tgz 361ms (cache miss)
+62 http fetch GET 200 https://registry.npmjs.org/cronstrue/-/cronstrue-2.57.0.tgz 421ms (cache miss)
+63 http fetch GET 200 https://registry.npmjs.org/node-red-contrib-cron-plus/-/node-red-contrib-cron-plus-2.1.0.tgz 451ms (cache miss)
+64 silly ADD node_modules/parse-ms
+65 silly ADD node_modules/suncalc2
+66 silly ADD node_modules/pretty-ms
+67 silly ADD node_modules/cronstrue
+68 silly ADD node_modules/cronosjs
+69 silly ADD node_modules/coord-parser
+70 silly ADD node_modules/node-red-contrib-cron-plus
+71 verbose cwd /data
+72 verbose os Linux 5.15.167.4-microsoft-standard-WSL2
+73 verbose node v20.19.0
+74 verbose npm  v10.8.2
+75 verbose exit 0
+76 info ok

@@ -1,0 +1,695 @@
+1743832766: mosquitto version 2.0.21 starting
+1743832766: Config loaded from /mosquitto/config/mosquitto.conf.
+1743832766: Opening ipv4 listen socket on port 1883.
+1743832766: Opening ipv6 listen socket on port 1883.
+1743832766: Opening websockets listen socket on port 9001.
+1743832766: mosquitto version 2.0.21 running
+1743832781: New connection from 172.18.0.1:42998 on port 1883.
+1743832781: New client connected from 172.18.0.1:42998 as 1234 (p5, c1, k60).
+1743833975: Client 1234 has exceeded timeout, disconnecting.
+1743833980: New connection from 172.18.0.1:36398 on port 1883.
+1743833980: New client connected from 172.18.0.1:36398 as 1234 (p5, c1, k60).
+1743834037: mosquitto version 2.0.21 terminating
+1743834037: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743834268: mosquitto version 2.0.21 starting
+1743834268: Config loaded from /mosquitto/config/mosquitto.conf.
+1743834268: Opening ipv4 listen socket on port 1883.
+1743834268: Opening ipv6 listen socket on port 1883.
+1743834268: Opening websockets listen socket on port 9001.
+1743834268: mosquitto version 2.0.21 running
+1743834292: New connection from 172.18.0.1:41268 on port 1883.
+1743834292: New client connected from 172.18.0.1:41268 as 1234 (p5, c1, k60).
+1743834836: New connection from 172.18.0.1:54868 on port 1883.
+1743834836: New client connected from 172.18.0.1:54868 as M5StackClient (p2, c1, k15).
+1743834882: New connection from 172.18.0.1:33684 on port 1883.
+1743834882: New client connected from 172.18.0.1:33684 as nodered_de740016513cf842 (p1, c1, k60).
+1743834991: New connection from 172.18.0.1:46404 on port 1883.
+1743834991: Client M5StackClient already connected, closing old connection.
+1743834991: New client connected from 172.18.0.1:46404 as M5StackClient (p2, c1, k15).
+1743835215: Client nodered_de740016513cf842 disconnected.
+1743835215: Client 1234 closed its connection.
+1743849757: mosquitto version 2.0.21 starting
+1743849757: Config loaded from /mosquitto/config/mosquitto.conf.
+1743849757: Opening ipv4 listen socket on port 1883.
+1743849757: Opening ipv6 listen socket on port 1883.
+1743849757: Opening websockets listen socket on port 9001.
+1743849757: mosquitto version 2.0.21 running
+1743850038: mosquitto version 2.0.21 terminating
+1743850038: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743850106: mosquitto version 2.0.21 starting
+1743850106: Config loaded from /mosquitto/config/mosquitto.conf.
+1743850106: Opening ipv4 listen socket on port 1883.
+1743850106: Opening ipv6 listen socket on port 1883.
+1743850106: Opening websockets listen socket on port 9001.
+1743850106: mosquitto version 2.0.21 running
+1743850206: New connection from 172.18.0.1:54420 on port 1883.
+1743850206: New client connected from 172.18.0.1:54420 as M5StackClient (p2, c1, k15).
+1743850734: New connection from 172.18.0.1:57892 on port 1883.
+1743850734: New client connected from 172.18.0.1:57892 as nodered_04367a9d9e251af6 (p2, c1, k60).
+1743851331: New connection from 172.18.0.1:47770 on port 1883.
+1743851331: Client M5StackClient already connected, closing old connection.
+1743851331: New client connected from 172.18.0.1:47770 as M5StackClient (p2, c1, k15).
+1743851462: New connection from 172.18.0.1:46844 on port 1883.
+1743851462: New client connected from 172.18.0.1:46844 as 1234 (p5, c1, k60).
+1743851558: Client nodered_04367a9d9e251af6 disconnected.
+1743851558: New connection from 172.18.0.1:54420 on port 1883.
+1743851558: New client connected from 172.18.0.1:54420 as nodered_c5ec4f5ce2dca7bf (p2, c1, k60).
+1743851784: New connection from 172.18.0.1:59068 on port 1883.
+1743851784: Client M5StackClient already connected, closing old connection.
+1743851784: New client connected from 172.18.0.1:59068 as M5StackClient (p2, c1, k15).
+1743851794: Client nodered_c5ec4f5ce2dca7bf disconnected.
+1743851794: New connection from 172.18.0.1:56636 on port 1883.
+1743851794: New client connected from 172.18.0.1:56636 as nodered_66b56fb32ccb668c (p2, c1, k60).
+1743851816: Client nodered_66b56fb32ccb668c disconnected.
+1743851816: New connection from 172.18.0.1:35206 on port 1883.
+1743851816: New client connected from 172.18.0.1:35206 as nodered_08512f1317485199 (p2, c1, k60).
+1743851829: Client nodered_08512f1317485199 disconnected.
+1743851829: New connection from 172.18.0.1:59982 on port 1883.
+1743851829: New client connected from 172.18.0.1:59982 as nodered_510eb706bac6d487 (p2, c1, k60).
+1743851838: Client nodered_510eb706bac6d487 disconnected.
+1743851838: New connection from 172.18.0.1:50632 on port 1883.
+1743851838: New client connected from 172.18.0.1:50632 as nodered_db51509629e88580 (p2, c1, k60).
+1743851907: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743851978: Client 1234 has exceeded timeout, disconnecting.
+1743851981: Client nodered_db51509629e88580 disconnected.
+1743851981: New connection from 172.18.0.1:33194 on port 1883.
+1743851981: New client connected from 172.18.0.1:33194 as nodered_ad90507133494cca (p2, c1, k60).
+1743851982: New connection from 172.18.0.1:33202 on port 1883.
+1743851982: New client connected from 172.18.0.1:33202 as 1234 (p5, c1, k60).
+1743852004: Client nodered_ad90507133494cca disconnected.
+1743852004: New connection from 172.18.0.1:36426 on port 1883.
+1743852004: New client connected from 172.18.0.1:36426 as nodered_551c72d390ec5882 (p2, c1, k60).
+1743852061: Client nodered_551c72d390ec5882 disconnected.
+1743852061: New connection from 172.18.0.1:56874 on port 1883.
+1743852061: New client connected from 172.18.0.1:56874 as nodered_23edc57daa61ed93 (p2, c1, k60).
+1743852089: Client nodered_23edc57daa61ed93 disconnected.
+1743852089: New connection from 172.18.0.1:52702 on port 1883.
+1743852089: New client connected from 172.18.0.1:52702 as nodered_146cdda0599aa1af (p2, c1, k60).
+1743852453: Client 1234 has exceeded timeout, disconnecting.
+1743852457: New connection from 172.18.0.1:55548 on port 1883.
+1743852457: New client connected from 172.18.0.1:55548 as 1234 (p5, c1, k60).
+1743852862: Client nodered_146cdda0599aa1af disconnected.
+1743852862: New connection from 172.18.0.1:48460 on port 1883.
+1743852862: New client connected from 172.18.0.1:48460 as nodered_9be3206513474167 (p2, c1, k60).
+1743852873: Client 1234 has exceeded timeout, disconnecting.
+1743852877: New connection from 172.18.0.1:55618 on port 1883.
+1743852877: New client connected from 172.18.0.1:55618 as 1234 (p5, c1, k60).
+1743852921: Client nodered_9be3206513474167 disconnected.
+1743852921: New connection from 172.18.0.1:47770 on port 1883.
+1743852921: New client connected from 172.18.0.1:47770 as nodered_ef1a053c4e87ddfa (p2, c1, k60).
+1743852965: Client nodered_ef1a053c4e87ddfa disconnected.
+1743852965: New connection from 172.18.0.1:44426 on port 1883.
+1743852965: New client connected from 172.18.0.1:44426 as nodered_a3666c6806dabd1d (p2, c1, k60).
+1743853150: Client nodered_a3666c6806dabd1d disconnected.
+1743853150: New connection from 172.18.0.1:37904 on port 1883.
+1743853150: New client connected from 172.18.0.1:37904 as nodered_0ce0602d665d7cb0 (p2, c1, k60).
+1743853279: Client nodered_0ce0602d665d7cb0 disconnected.
+1743853279: New connection from 172.18.0.1:58256 on port 1883.
+1743853279: New client connected from 172.18.0.1:58256 as nodered_e5b72f257d05f27b (p2, c1, k60).
+1743853293: Client 1234 has exceeded timeout, disconnecting.
+1743853297: New connection from 172.18.0.1:49020 on port 1883.
+1743853297: New client connected from 172.18.0.1:49020 as 1234 (p5, c1, k60).
+1743853708: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743853713: Client 1234 has exceeded timeout, disconnecting.
+1743853717: New connection from 172.18.0.1:60048 on port 1883.
+1743853717: New client connected from 172.18.0.1:60048 as 1234 (p5, c1, k60).
+1743854133: Client 1234 has exceeded timeout, disconnecting.
+1743854137: New connection from 172.18.0.1:46832 on port 1883.
+1743854137: New client connected from 172.18.0.1:46832 as 1234 (p5, c1, k60).
+1743854451: Client nodered_e5b72f257d05f27b disconnected.
+1743854451: New connection from 172.18.0.1:44622 on port 1883.
+1743854451: New client connected from 172.18.0.1:44622 as nodered_cf9277ff90873449 (p2, c1, k60).
+1743854512: Client nodered_cf9277ff90873449 disconnected.
+1743854512: New connection from 172.18.0.1:36492 on port 1883.
+1743854512: New client connected from 172.18.0.1:36492 as nodered_6ad20693164a6af0 (p2, c1, k60).
+1743854518: Client nodered_6ad20693164a6af0 disconnected.
+1743854518: New connection from 172.18.0.1:35602 on port 1883.
+1743854518: New client connected from 172.18.0.1:35602 as nodered_b96974c1244d72d9 (p2, c1, k60).
+1743854613: Client 1234 has exceeded timeout, disconnecting.
+1743854617: New connection from 172.18.0.1:51796 on port 1883.
+1743854617: New client connected from 172.18.0.1:51796 as 1234 (p5, c1, k60).
+1743854784: New connection from 172.18.0.1:45066 on port 1883.
+1743854784: Client M5StackClient already connected, closing old connection.
+1743854784: New client connected from 172.18.0.1:45066 as M5StackClient (p2, c1, k15).
+1743855033: Client 1234 has exceeded timeout, disconnecting.
+1743855037: New connection from 172.18.0.1:41704 on port 1883.
+1743855037: New client connected from 172.18.0.1:41704 as 1234 (p5, c1, k60).
+1743855509: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743855573: Client 1234 has exceeded timeout, disconnecting.
+1743855577: New connection from 172.18.0.1:58182 on port 1883.
+1743855577: New client connected from 172.18.0.1:58182 as 1234 (p5, c1, k60).
+1743856113: Client 1234 has exceeded timeout, disconnecting.
+1743856117: New connection from 172.18.0.1:42314 on port 1883.
+1743856117: New client connected from 172.18.0.1:42314 as 1234 (p5, c1, k60).
+1743856533: Client 1234 has exceeded timeout, disconnecting.
+1743856537: New connection from 172.18.0.1:49850 on port 1883.
+1743856537: New client connected from 172.18.0.1:49850 as 1234 (p5, c1, k60).
+1743856628: Client 1234 has exceeded timeout, disconnecting.
+1743857310: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743859085: New connection from 172.18.0.1:60972 on port 1883.
+1743859085: Client M5StackClient already connected, closing old connection.
+1743859085: New client connected from 172.18.0.1:60972 as M5StackClient (p2, c1, k15).
+1743859105: New connection from 172.18.0.1:34954 on port 1883.
+1743859105: New client connected from 172.18.0.1:34954 as 1234 (p5, c1, k60).
+1743859111: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743859310: Client M5StackClient closed its connection.
+1743859340: New connection from 172.18.0.1:40948 on port 1883.
+1743859340: New client connected from 172.18.0.1:40948 as M5StackClient (p2, c1, k15).
+1743859403: New connection from 172.18.0.1:46322 on port 1883.
+1743859403: Client M5StackClient already connected, closing old connection.
+1743859403: New client connected from 172.18.0.1:46322 as M5StackClient (p2, c1, k15).
+1743859910: Client 1234 has exceeded timeout, disconnecting.
+1743859914: New connection from 172.18.0.1:34316 on port 1883.
+1743859914: New client connected from 172.18.0.1:34316 as 1234 (p5, c1, k60).
+1743860168: Client M5StackClient closed its connection.
+1743860168: New connection from 172.18.0.1:46772 on port 1883.
+1743860168: New client connected from 172.18.0.1:46772 as M5StackClient (p2, c1, k15).
+1743860299: New connection from 172.18.0.1:35048 on port 1883.
+1743860299: Client M5StackClient already connected, closing old connection.
+1743860299: New client connected from 172.18.0.1:35048 as M5StackClient (p2, c1, k15).
+1743860647: Client M5StackClient closed its connection.
+1743860647: New connection from 172.18.0.1:54648 on port 1883.
+1743860647: New client connected from 172.18.0.1:54648 as M5StackClient (p2, c1, k15).
+1743860912: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743861049: Client M5StackClient closed its connection.
+1743861049: New connection from 172.18.0.1:50062 on port 1883.
+1743861049: New client connected from 172.18.0.1:50062 as M5StackClient (p2, c1, k15).
+1743861230: New connection from 172.18.0.1:44454 on port 1883.
+1743861230: Client M5StackClient already connected, closing old connection.
+1743861230: New client connected from 172.18.0.1:44454 as M5StackClient (p2, c1, k15).
+1743861430: Client M5StackClient closed its connection.
+1743861430: New connection from 172.18.0.1:57526 on port 1883.
+1743861430: New client connected from 172.18.0.1:57526 as M5StackClient (p2, c1, k15).
+1743861962: Client nodered_b96974c1244d72d9 disconnected.
+1743861962: New connection from 172.18.0.1:45414 on port 1883.
+1743861962: New client connected from 172.18.0.1:45414 as nodered_5b6bf4cdd91fa5aa (p2, c1, k60).
+1743862000: Client nodered_5b6bf4cdd91fa5aa disconnected.
+1743862000: New connection from 172.18.0.1:43172 on port 1883.
+1743862000: New client connected from 172.18.0.1:43172 as nodered_f955c5f7320002c7 (p2, c1, k60).
+1743862149: Client nodered_f955c5f7320002c7 disconnected.
+1743862149: New connection from 172.18.0.1:34532 on port 1883.
+1743862149: New client connected from 172.18.0.1:34532 as nodered_024125fe2cc1171c (p2, c1, k60).
+1743862176: Client nodered_024125fe2cc1171c disconnected.
+1743862176: New connection from 172.18.0.1:60584 on port 1883.
+1743862176: New client connected from 172.18.0.1:60584 as nodered_ab899aac0ddcbd98 (p2, c1, k60).
+1743862373: Client nodered_ab899aac0ddcbd98 disconnected.
+1743862373: New connection from 172.18.0.1:57484 on port 1883.
+1743862373: New client connected from 172.18.0.1:57484 as nodered_793221c9019af69f (p2, c1, k60).
+1743862435: Client nodered_793221c9019af69f disconnected.
+1743862435: New connection from 172.18.0.1:55900 on port 1883.
+1743862435: New client connected from 172.18.0.1:55900 as nodered_ad6d0c42f729cacd (p2, c1, k60).
+1743862463: Client nodered_ad6d0c42f729cacd disconnected.
+1743862463: New connection from 172.18.0.1:41062 on port 1883.
+1743862463: New client connected from 172.18.0.1:41062 as nodered_09951fa9b01364bd (p2, c1, k60).
+1743862565: Client nodered_09951fa9b01364bd disconnected.
+1743862565: New connection from 172.18.0.1:34300 on port 1883.
+1743862565: New client connected from 172.18.0.1:34300 as nodered_0444deca90e1234d (p2, c1, k60).
+1743862618: Client nodered_0444deca90e1234d disconnected.
+1743862618: New connection from 172.18.0.1:56108 on port 1883.
+1743862618: New client connected from 172.18.0.1:56108 as nodered_0da8e5dd28d7c6e0 (p2, c1, k60).
+1743862642: Client nodered_0da8e5dd28d7c6e0 disconnected.
+1743862642: New connection from 172.18.0.1:60078 on port 1883.
+1743862642: New client connected from 172.18.0.1:60078 as nodered_3de3ec130553c812 (p2, c1, k60).
+1743862669: Client nodered_3de3ec130553c812 disconnected.
+1743862669: New connection from 172.18.0.1:43928 on port 1883.
+1743862669: New client connected from 172.18.0.1:43928 as nodered_10dfd82c08ea94c6 (p2, c1, k60).
+1743862713: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743862735: Client nodered_10dfd82c08ea94c6 disconnected.
+1743862735: New connection from 172.18.0.1:36772 on port 1883.
+1743862735: New client connected from 172.18.0.1:36772 as nodered_c0cb5f80b33d36de (p2, c1, k60).
+1743862808: Client nodered_c0cb5f80b33d36de disconnected.
+1743862808: New connection from 172.18.0.1:60076 on port 1883.
+1743862808: New client connected from 172.18.0.1:60076 as nodered_d88843215442ef19 (p2, c1, k60).
+1743862840: Client nodered_d88843215442ef19 disconnected.
+1743862840: New connection from 172.18.0.1:44414 on port 1883.
+1743862840: New client connected from 172.18.0.1:44414 as nodered_a065650a09b72eee (p2, c1, k60).
+1743862889: Client nodered_a065650a09b72eee disconnected.
+1743862889: New connection from 172.18.0.1:52470 on port 1883.
+1743862889: New client connected from 172.18.0.1:52470 as nodered_a827a1ed2cd0a765 (p2, c1, k60).
+1743862921: Client nodered_a827a1ed2cd0a765 disconnected.
+1743862921: New connection from 172.18.0.1:34648 on port 1883.
+1743862921: New client connected from 172.18.0.1:34648 as nodered_33c4a2522936cfac (p2, c1, k60).
+1743863133: Client nodered_33c4a2522936cfac disconnected.
+1743863133: New connection from 172.18.0.1:32964 on port 1883.
+1743863133: New client connected from 172.18.0.1:32964 as nodered_51a69de366f6fedc (p2, c1, k60).
+1743863223: Client nodered_51a69de366f6fedc disconnected.
+1743863223: New connection from 172.18.0.1:40418 on port 1883.
+1743863223: New client connected from 172.18.0.1:40418 as nodered_ae9ea265061cc1ba (p2, c1, k60).
+1743863231: Client nodered_ae9ea265061cc1ba disconnected.
+1743863231: New connection from 172.18.0.1:47354 on port 1883.
+1743863231: New client connected from 172.18.0.1:47354 as nodered_1f0eddd80de2460d (p2, c1, k60).
+1743863272: Client nodered_1f0eddd80de2460d disconnected.
+1743863272: New connection from 172.18.0.1:40854 on port 1883.
+1743863272: New client connected from 172.18.0.1:40854 as nodered_62fadb66d0eb4c96 (p2, c1, k60).
+1743863431: Client nodered_62fadb66d0eb4c96 disconnected.
+1743863431: New connection from 172.18.0.1:51896 on port 1883.
+1743863431: New client connected from 172.18.0.1:51896 as nodered_c314475dd9cce536 (p2, c1, k60).
+1743863538: Client nodered_c314475dd9cce536 disconnected.
+1743863538: New connection from 172.18.0.1:57614 on port 1883.
+1743863538: New client connected from 172.18.0.1:57614 as nodered_85631addbd086246 (p2, c1, k60).
+1743863550: Client nodered_85631addbd086246 disconnected.
+1743863550: New connection from 172.18.0.1:45430 on port 1883.
+1743863550: New client connected from 172.18.0.1:45430 as nodered_344b4ee333455205 (p2, c1, k60).
+1743863627: Client nodered_344b4ee333455205 disconnected.
+1743863627: New connection from 172.18.0.1:38934 on port 1883.
+1743863627: New client connected from 172.18.0.1:38934 as nodered_ecbbefab7986651a (p2, c1, k60).
+1743863705: New connection from 172.18.0.1:35368 on port 1883.
+1743863705: Client M5StackClient already connected, closing old connection.
+1743863705: New client connected from 172.18.0.1:35368 as M5StackClient (p2, c1, k15).
+1743864154: Client 1234 has exceeded timeout, disconnecting.
+1743864158: New connection from 172.18.0.1:35830 on port 1883.
+1743864158: New client connected from 172.18.0.1:35830 as 1234 (p5, c1, k60).
+1743864514: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743864753: Client 1234 has exceeded timeout, disconnecting.
+1743864757: New connection from 172.18.0.1:50346 on port 1883.
+1743864757: New client connected from 172.18.0.1:50346 as 1234 (p5, c1, k60).
+1743864820: Client nodered_ecbbefab7986651a disconnected.
+1743864820: New connection from 172.18.0.1:53408 on port 1883.
+1743864820: New client connected from 172.18.0.1:53408 as nodered_e00d57cd380dbbe1 (p2, c1, k60).
+1743865441: New connection from 172.18.0.1:38416 on port 1883.
+1743865441: Client M5StackClient already connected, closing old connection.
+1743865441: New client connected from 172.18.0.1:38416 as M5StackClient (p2, c1, k15).
+1743865671: New connection from 172.18.0.1:40422 on port 1883.
+1743865671: Client M5StackClient already connected, closing old connection.
+1743865671: New client connected from 172.18.0.1:40422 as M5StackClient (p2, c1, k15).
+1743865997: Client nodered_e00d57cd380dbbe1 disconnected.
+1743865997: New connection from 172.18.0.1:38446 on port 1883.
+1743865997: New client connected from 172.18.0.1:38446 as nodered_8271282c5c3e30ef (p2, c1, k60).
+1743866024: Client nodered_8271282c5c3e30ef disconnected.
+1743866024: New connection from 172.18.0.1:47938 on port 1883.
+1743866024: New client connected from 172.18.0.1:47938 as nodered_f7d1bbcb313bb82f (p2, c1, k60).
+1743866077: Client nodered_f7d1bbcb313bb82f disconnected.
+1743866077: New connection from 172.18.0.1:35392 on port 1883.
+1743866077: New client connected from 172.18.0.1:35392 as nodered_556e914f459ea75b (p2, c1, k60).
+1743866154: Client nodered_556e914f459ea75b disconnected.
+1743866154: New connection from 172.18.0.1:32778 on port 1883.
+1743866154: New client connected from 172.18.0.1:32778 as nodered_56dd6e378e42772e (p2, c1, k60).
+1743866170: Client nodered_56dd6e378e42772e disconnected.
+1743866170: New connection from 172.18.0.1:43816 on port 1883.
+1743866170: New client connected from 172.18.0.1:43816 as nodered_cb2ee0c19e85b05d (p2, c1, k60).
+1743866277: Client nodered_cb2ee0c19e85b05d disconnected.
+1743866277: New connection from 172.18.0.1:36334 on port 1883.
+1743866277: New client connected from 172.18.0.1:36334 as nodered_713c169826c30f63 (p2, c1, k60).
+1743866300: Client nodered_713c169826c30f63 disconnected.
+1743866300: New connection from 172.18.0.1:42240 on port 1883.
+1743866300: New client connected from 172.18.0.1:42240 as nodered_e3b808169cc1d357 (p2, c1, k60).
+1743866311: Client nodered_e3b808169cc1d357 disconnected.
+1743866311: New connection from 172.18.0.1:46028 on port 1883.
+1743866311: New client connected from 172.18.0.1:46028 as nodered_72e35e50846980a0 (p2, c1, k60).
+1743866315: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743866327: Client nodered_72e35e50846980a0 disconnected.
+1743866327: New connection from 172.18.0.1:52766 on port 1883.
+1743866327: New client connected from 172.18.0.1:52766 as nodered_ab7ec3aacdc15789 (p2, c1, k60).
+1743866386: Client nodered_ab7ec3aacdc15789 disconnected.
+1743866386: New connection from 172.18.0.1:50854 on port 1883.
+1743866386: New client connected from 172.18.0.1:50854 as nodered_ae2f7374e8465396 (p2, c1, k60).
+1743866393: Client 1234 has exceeded timeout, disconnecting.
+1743866397: New connection from 172.18.0.1:60550 on port 1883.
+1743866397: New client connected from 172.18.0.1:60550 as 1234 (p5, c1, k60).
+1743866400: Client nodered_ae2f7374e8465396 disconnected.
+1743866400: New connection from 172.18.0.1:60560 on port 1883.
+1743866400: New client connected from 172.18.0.1:60560 as nodered_ad0edaee1a43d991 (p2, c1, k60).
+1743866446: Client nodered_ad0edaee1a43d991 disconnected.
+1743866446: New connection from 172.18.0.1:37604 on port 1883.
+1743866446: New client connected from 172.18.0.1:37604 as nodered_7ebf866211c304de (p2, c1, k60).
+1743866592: Client nodered_7ebf866211c304de disconnected.
+1743866592: New connection from 172.18.0.1:52190 on port 1883.
+1743866592: New client connected from 172.18.0.1:52190 as nodered_1ac4dacbf4d1e367 (p2, c1, k60).
+1743866636: Client nodered_1ac4dacbf4d1e367 disconnected.
+1743866636: New connection from 172.18.0.1:48034 on port 1883.
+1743866636: New client connected from 172.18.0.1:48034 as nodered_7c427cbc82da9476 (p2, c1, k60).
+1743866672: Client nodered_7c427cbc82da9476 disconnected.
+1743866672: New connection from 172.18.0.1:45396 on port 1883.
+1743866672: New client connected from 172.18.0.1:45396 as nodered_3fe02c992b92bdb0 (p2, c1, k60).
+1743866700: Client nodered_3fe02c992b92bdb0 disconnected.
+1743866700: New connection from 172.18.0.1:57986 on port 1883.
+1743866700: New client connected from 172.18.0.1:57986 as nodered_b72d8183cdf06bbd (p2, c1, k60).
+1743867033: Client 1234 has exceeded timeout, disconnecting.
+1743867037: New connection from 172.18.0.1:58256 on port 1883.
+1743867037: New client connected from 172.18.0.1:58256 as 1234 (p5, c1, k60).
+1743867219: New connection from 172.18.0.1:54686 on port 1883.
+1743867219: Client M5StackClient already connected, closing old connection.
+1743867219: New client connected from 172.18.0.1:54686 as M5StackClient (p2, c1, k15).
+1743867272: Client nodered_b72d8183cdf06bbd disconnected.
+1743867272: New connection from 172.18.0.1:56260 on port 1883.
+1743867272: New client connected from 172.18.0.1:56260 as nodered_0a517fd7ce74b841 (p2, c1, k60).
+1743867469: Client nodered_0a517fd7ce74b841 disconnected.
+1743867469: New connection from 172.18.0.1:55568 on port 1883.
+1743867469: New client connected from 172.18.0.1:55568 as nodered_813407db162fee97 (p2, c1, k60).
+1743867529: Client nodered_813407db162fee97 disconnected.
+1743867529: New connection from 172.18.0.1:48548 on port 1883.
+1743867529: New client connected from 172.18.0.1:48548 as nodered_c58752d8e0b51f14 (p2, c1, k60).
+1743867624: Client nodered_c58752d8e0b51f14 disconnected.
+1743867624: New connection from 172.18.0.1:53060 on port 1883.
+1743867624: New client connected from 172.18.0.1:53060 as nodered_c28757b65c63598b (p2, c1, k60).
+1743867719: Client nodered_c28757b65c63598b disconnected.
+1743867719: New connection from 172.18.0.1:39096 on port 1883.
+1743867719: New client connected from 172.18.0.1:39096 as nodered_565428ef19e08239 (p2, c1, k60).
+1743867734: Client nodered_565428ef19e08239 disconnected.
+1743867734: New connection from 172.18.0.1:33240 on port 1883.
+1743867734: New client connected from 172.18.0.1:33240 as nodered_6959630451948555 (p2, c1, k60).
+1743867753: Client 1234 has exceeded timeout, disconnecting.
+1743867757: New connection from 172.18.0.1:52230 on port 1883.
+1743867757: New client connected from 172.18.0.1:52230 as 1234 (p5, c1, k60).
+1743867770: Client nodered_6959630451948555 disconnected.
+1743867770: New connection from 172.18.0.1:39648 on port 1883.
+1743867770: New client connected from 172.18.0.1:39648 as nodered_036e4b80fcfccc53 (p2, c1, k60).
+1743867832: Client nodered_036e4b80fcfccc53 disconnected.
+1743867832: New connection from 172.18.0.1:42330 on port 1883.
+1743867832: New client connected from 172.18.0.1:42330 as nodered_094abbb29a46c3d8 (p2, c1, k60).
+1743867839: Client nodered_094abbb29a46c3d8 disconnected.
+1743867839: New connection from 172.18.0.1:45998 on port 1883.
+1743867839: New client connected from 172.18.0.1:45998 as nodered_2672c8c6cd7c03e2 (p2, c1, k60).
+1743867987: Client nodered_2672c8c6cd7c03e2 disconnected.
+1743867987: New connection from 172.18.0.1:34930 on port 1883.
+1743867987: New client connected from 172.18.0.1:34930 as nodered_690b16a00f8f7097 (p2, c1, k60).
+1743868014: Client nodered_690b16a00f8f7097 disconnected.
+1743868014: New connection from 172.18.0.1:44480 on port 1883.
+1743868014: New client connected from 172.18.0.1:44480 as nodered_51bde2442216bbef (p2, c1, k60).
+1743868064: Client nodered_51bde2442216bbef disconnected.
+1743868064: New connection from 172.18.0.1:40618 on port 1883.
+1743868064: New client connected from 172.18.0.1:40618 as nodered_475f56f90c32ffa7 (p2, c1, k60).
+1743868116: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743868173: Client 1234 has exceeded timeout, disconnecting.
+1743868177: New connection from 172.18.0.1:46022 on port 1883.
+1743868177: New client connected from 172.18.0.1:46022 as 1234 (p5, c1, k60).
+1743868226: Client nodered_475f56f90c32ffa7 disconnected.
+1743868226: New connection from 172.18.0.1:49324 on port 1883.
+1743868226: New client connected from 172.18.0.1:49324 as nodered_463e3e498abc9792 (p2, c1, k60).
+1743868243: Client nodered_463e3e498abc9792 disconnected.
+1743868243: New connection from 172.18.0.1:53840 on port 1883.
+1743868243: New client connected from 172.18.0.1:53840 as nodered_5cf7f12b9c4fd26a (p2, c1, k60).
+1743868275: Client nodered_5cf7f12b9c4fd26a disconnected.
+1743868275: New connection from 172.18.0.1:49162 on port 1883.
+1743868275: New client connected from 172.18.0.1:49162 as nodered_b94d147353c13eb8 (p2, c1, k60).
+1743868459: Client nodered_b94d147353c13eb8 disconnected.
+1743868459: New connection from 172.18.0.1:53054 on port 1883.
+1743868459: New client connected from 172.18.0.1:53054 as nodered_121997c71f7e1086 (p2, c1, k60).
+1743868471: Client nodered_121997c71f7e1086 disconnected.
+1743868471: New connection from 172.18.0.1:52720 on port 1883.
+1743868471: New client connected from 172.18.0.1:52720 as nodered_17f18aa73d862337 (p2, c1, k60).
+1743868593: Client 1234 has exceeded timeout, disconnecting.
+1743868597: New connection from 172.18.0.1:57974 on port 1883.
+1743868597: New client connected from 172.18.0.1:57974 as 1234 (p5, c1, k60).
+1743868839: Client nodered_17f18aa73d862337 disconnected.
+1743868839: New connection from 172.18.0.1:39960 on port 1883.
+1743868839: New client connected from 172.18.0.1:39960 as nodered_1a563f2265f07677 (p2, c1, k60).
+1743868874: Client nodered_1a563f2265f07677 disconnected.
+1743868874: New connection from 172.18.0.1:46896 on port 1883.
+1743868874: New client connected from 172.18.0.1:46896 as nodered_6693df7aa3c17e5f (p2, c1, k60).
+1743868980: Client nodered_6693df7aa3c17e5f disconnected.
+1743868980: New connection from 172.18.0.1:55604 on port 1883.
+1743868980: New client connected from 172.18.0.1:55604 as nodered_d65e0c6689d7bfe6 (p2, c1, k60).
+1743869013: Client 1234 has exceeded timeout, disconnecting.
+1743869017: New connection from 172.18.0.1:47540 on port 1883.
+1743869017: New client connected from 172.18.0.1:47540 as 1234 (p5, c1, k60).
+1743869051: Client nodered_d65e0c6689d7bfe6 disconnected.
+1743869051: New connection from 172.18.0.1:47986 on port 1883.
+1743869051: New client connected from 172.18.0.1:47986 as nodered_5063c6ed116428d4 (p2, c1, k60).
+1743869187: Client nodered_5063c6ed116428d4 disconnected.
+1743869187: New connection from 172.18.0.1:48170 on port 1883.
+1743869187: New client connected from 172.18.0.1:48170 as nodered_f3812f7aeb20f17e (p2, c1, k60).
+1743869237: Client nodered_f3812f7aeb20f17e disconnected.
+1743869237: New connection from 172.18.0.1:49352 on port 1883.
+1743869237: New client connected from 172.18.0.1:49352 as nodered_bcfe92edf65f07ba (p2, c1, k60).
+1743869281: Client nodered_bcfe92edf65f07ba disconnected.
+1743869281: New connection from 172.18.0.1:39032 on port 1883.
+1743869281: New client connected from 172.18.0.1:39032 as nodered_22950f4c99f36032 (p2, c1, k60).
+1743869433: Client 1234 has exceeded timeout, disconnecting.
+1743869437: New connection from 172.18.0.1:45182 on port 1883.
+1743869437: New client connected from 172.18.0.1:45182 as 1234 (p5, c1, k60).
+1743869565: Client nodered_22950f4c99f36032 disconnected.
+1743869565: New connection from 172.18.0.1:50696 on port 1883.
+1743869565: New client connected from 172.18.0.1:50696 as nodered_fb406a46d78635d8 (p2, c1, k60).
+1743869853: Client 1234 has exceeded timeout, disconnecting.
+1743869857: New connection from 172.18.0.1:50658 on port 1883.
+1743869857: New client connected from 172.18.0.1:50658 as 1234 (p5, c1, k60).
+1743869917: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743869948: Client 1234 has exceeded timeout, disconnecting.
+1743870231: Client nodered_fb406a46d78635d8 disconnected.
+1743870231: New connection from 172.18.0.1:48416 on port 1883.
+1743870231: New client connected from 172.18.0.1:48416 as nodered_bf9c15c4bbab0ee6 (p2, c1, k60).
+1743870250: Client nodered_bf9c15c4bbab0ee6 disconnected.
+1743870250: New connection from 172.18.0.1:51998 on port 1883.
+1743870250: New client connected from 172.18.0.1:51998 as nodered_43a6691e945c5936 (p2, c1, k60).
+1743870560: Client nodered_43a6691e945c5936 disconnected.
+1743870560: New connection from 172.18.0.1:50928 on port 1883.
+1743870560: New client connected from 172.18.0.1:50928 as nodered_8ce986667fc78f5c (p2, c1, k60).
+1743870590: Client nodered_8ce986667fc78f5c disconnected.
+1743870590: New connection from 172.18.0.1:54960 on port 1883.
+1743870590: New client connected from 172.18.0.1:54960 as nodered_0b5c71b49b39946b (p2, c1, k60).
+1743870613: Client nodered_0b5c71b49b39946b disconnected.
+1743870613: New connection from 172.18.0.1:39806 on port 1883.
+1743870613: New client connected from 172.18.0.1:39806 as nodered_58917695d8a3c4f1 (p2, c1, k60).
+1743870687: Client nodered_58917695d8a3c4f1 disconnected.
+1743870687: New connection from 172.18.0.1:40176 on port 1883.
+1743870687: New client connected from 172.18.0.1:40176 as nodered_b5803c3dc1cfa05e (p2, c1, k60).
+1743870725: Client nodered_b5803c3dc1cfa05e disconnected.
+1743870725: New connection from 172.18.0.1:32944 on port 1883.
+1743870725: New client connected from 172.18.0.1:32944 as nodered_4fe4e1df3853d11e (p2, c1, k60).
+1743870857: Client nodered_4fe4e1df3853d11e disconnected.
+1743870858: New connection from 172.18.0.1:34342 on port 1883.
+1743870858: New client connected from 172.18.0.1:34342 as nodered_291fbd22aab8d411 (p2, c1, k60).
+1743870916: Client nodered_291fbd22aab8d411 disconnected.
+1743870916: New connection from 172.18.0.1:41762 on port 1883.
+1743870916: New client connected from 172.18.0.1:41762 as nodered_5e146a175b80d6f8 (p2, c1, k60).
+1743870929: Client nodered_5e146a175b80d6f8 disconnected.
+1743870929: New connection from 172.18.0.1:49492 on port 1883.
+1743870929: New client connected from 172.18.0.1:49492 as nodered_e389bc2153cf3142 (p2, c1, k60).
+1743871031: Client nodered_e389bc2153cf3142 disconnected.
+1743871031: New connection from 172.18.0.1:34838 on port 1883.
+1743871031: New client connected from 172.18.0.1:34838 as nodered_a156c0d14c962a50 (p2, c1, k60).
+1743871043: New connection from 172.18.0.1:42924 on port 1883.
+1743871043: New client connected from 172.18.0.1:42924 as 1234 (p5, c1, k60).
+1743871086: Client nodered_a156c0d14c962a50 disconnected.
+1743871086: New connection from 172.18.0.1:37310 on port 1883.
+1743871086: New client connected from 172.18.0.1:37310 as nodered_b80bc137c2c99083 (p2, c1, k60).
+1743871232: Client nodered_b80bc137c2c99083 disconnected.
+1743871232: New connection from 172.18.0.1:57322 on port 1883.
+1743871232: New client connected from 172.18.0.1:57322 as nodered_4a7b11bd594f2299 (p2, c1, k60).
+1743871261: Client nodered_4a7b11bd594f2299 disconnected.
+1743871261: New connection from 172.18.0.1:37576 on port 1883.
+1743871261: New client connected from 172.18.0.1:37576 as nodered_e82b047990388823 (p2, c1, k60).
+1743871289: Client nodered_e82b047990388823 disconnected.
+1743871289: New connection from 172.18.0.1:43774 on port 1883.
+1743871289: New client connected from 172.18.0.1:43774 as nodered_ce6898442435a0fe (p2, c1, k60).
+1743871434: Client nodered_ce6898442435a0fe disconnected.
+1743871434: New connection from 172.18.0.1:37636 on port 1883.
+1743871434: New client connected from 172.18.0.1:37636 as nodered_7b11a751d7f97942 (p2, c1, k60).
+1743871497: Client 1234 has exceeded timeout, disconnecting.
+1743871501: New connection from 172.18.0.1:33476 on port 1883.
+1743871501: New client connected from 172.18.0.1:33476 as 1234 (p5, c1, k60).
+1743871601: Client nodered_7b11a751d7f97942 disconnected.
+1743871601: New connection from 172.18.0.1:41300 on port 1883.
+1743871601: New client connected from 172.18.0.1:41300 as nodered_c4e2e19498913d81 (p2, c1, k60).
+1743871718: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743871836: Client 1234 has exceeded timeout, disconnecting.
+1743871840: New connection from 172.18.0.1:39886 on port 1883.
+1743871840: New client connected from 172.18.0.1:39886 as 1234 (p5, c1, k60).
+1743871907: mosquitto version 2.0.21 terminating
+1743871907: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743999470: mosquitto version 2.0.21 starting
+1743999470: Config loaded from /mosquitto/config/mosquitto.conf.
+1743999470: Opening ipv4 listen socket on port 1883.
+1743999470: Opening ipv6 listen socket on port 1883.
+1743999470: Opening websockets listen socket on port 9001.
+1743999470: mosquitto version 2.0.21 running
+1743999474: New connection from 172.18.0.1:43100 on port 1883.
+1743999474: New client connected from 172.18.0.1:43100 as nodered_a45b21368a4a6f47 (p2, c1, k60).
+1743999676: New connection from 172.18.0.1:38334 on port 1883.
+1743999676: New client connected from 172.18.0.1:38334 as M5StackClient (p2, c1, k15).
+1743999782: New connection from 172.18.0.1:47472 on port 1883.
+1743999782: New client connected from 172.18.0.1:47472 as 1234 (p5, c1, k60).
+1743999793: Client nodered_a45b21368a4a6f47 disconnected.
+1743999793: New connection from 172.18.0.1:60732 on port 1883.
+1743999793: New client connected from 172.18.0.1:60732 as nodered_e38ca5b1ac2362f3 (p2, c1, k60).
+1744000174: Client 1234 has exceeded timeout, disconnecting.
+1744000178: New connection from 172.18.0.1:46156 on port 1883.
+1744000178: New client connected from 172.18.0.1:46156 as 1234 (p5, c1, k60).
+1744000593: Client 1234 has exceeded timeout, disconnecting.
+1744000597: New connection from 172.18.0.1:57408 on port 1883.
+1744000597: New client connected from 172.18.0.1:57408 as 1234 (p5, c1, k60).
+1744001030: New connection from 172.18.0.1:40412 on port 1883.
+1744001030: Client M5StackClient already connected, closing old connection.
+1744001030: New client connected from 172.18.0.1:40412 as M5StackClient (p2, c1, k15).
+1744001133: Client 1234 has exceeded timeout, disconnecting.
+1744001137: New connection from 172.18.0.1:44480 on port 1883.
+1744001137: New client connected from 172.18.0.1:44480 as 1234 (p5, c1, k60).
+1744001192: Client nodered_e38ca5b1ac2362f3 closed its connection.
+1744001192: Client M5StackClient closed its connection.
+1744001271: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744001793: Client 1234 has exceeded timeout, disconnecting.
+1744001797: New connection from 172.18.0.1:36604 on port 1883.
+1744001797: New client connected from 172.18.0.1:36604 as 1234 (p5, c1, k60).
+1744002147: New connection from 172.18.0.1:59976 on port 1883.
+1744002147: New client connected from 172.18.0.1:59976 as M5StackClient (p2, c1, k15).
+1744002159: New connection from 172.18.0.1:53110 on port 1883.
+1744002159: New client connected from 172.18.0.1:53110 as nodered_e38ca5b1ac2362f3 (p2, c1, k60).
+1744002583: Client 1234 has exceeded timeout, disconnecting.
+1744002587: New connection from 172.18.0.1:51146 on port 1883.
+1744002587: New client connected from 172.18.0.1:51146 as 1234 (p5, c1, k60).
+1744002660: Client 1234 disconnected.
+1744002670: New connection from 172.18.0.1:35326 on port 1883.
+1744002670: New client connected from 172.18.0.1:35326 as 1234 (p5, c1, k60).
+1744002788: New connection from 172.18.0.1:49970 on port 1883.
+1744002788: New client connected from 172.18.0.1:49970 as ESP32Client (p2, c1, k15).
+1744002943: Client nodered_e38ca5b1ac2362f3 disconnected.
+1744002943: New connection from 172.18.0.1:45670 on port 1883.
+1744002943: New client connected from 172.18.0.1:45670 as nodered_b78efc873737b0a3 (p2, c1, k60).
+1744003055: Client nodered_b78efc873737b0a3 disconnected.
+1744003055: New connection from 172.18.0.1:58214 on port 1883.
+1744003055: New client connected from 172.18.0.1:58214 as nodered_f32ab09060b9da7c (p2, c1, k60).
+1744003072: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744003080: Client nodered_f32ab09060b9da7c disconnected.
+1744003080: New connection from 172.18.0.1:46764 on port 1883.
+1744003080: New client connected from 172.18.0.1:46764 as nodered_609ff0bc5b608ec4 (p2, c1, k60).
+1744003708: New connection from 172.18.0.1:52058 on port 1883.
+1744003708: Client M5StackClient already connected, closing old connection.
+1744003708: New client connected from 172.18.0.1:52058 as M5StackClient (p2, c1, k15).
+1744003726: Client ESP32Client has exceeded timeout, disconnecting.
+1744003798: Client M5StackClient closed its connection.
+1744003798: New connection from 172.18.0.1:57174 on port 1883.
+1744003798: New client connected from 172.18.0.1:57174 as M5StackClient (p2, c1, k15).
+1744003833: Client 1234 has exceeded timeout, disconnecting.
+1744003837: New connection from 172.18.0.1:37996 on port 1883.
+1744003837: New client connected from 172.18.0.1:37996 as 1234 (p5, c1, k60).
+1744003863: Client nodered_609ff0bc5b608ec4 disconnected.
+1744003863: New connection from 172.18.0.1:39782 on port 1883.
+1744003863: New client connected from 172.18.0.1:39782 as nodered_c7dc88a0b962c526 (p2, c1, k60).
+1744004092: New connection from 172.18.0.1:50758 on port 1883.
+1744004092: Client M5StackClient already connected, closing old connection.
+1744004092: New client connected from 172.18.0.1:50758 as M5StackClient (p2, c1, k15).
+1744004468: Client M5StackClient closed its connection.
+1744004468: New connection from 172.18.0.1:35030 on port 1883.
+1744004468: New client connected from 172.18.0.1:35030 as M5StackClient (p2, c1, k15).
+1744004630: Client 1234 has exceeded timeout, disconnecting.
+1744004634: New connection from 172.18.0.1:53878 on port 1883.
+1744004634: New client connected from 172.18.0.1:53878 as 1234 (p5, c1, k60).
+1744004870: New connection from 172.18.0.1:56738 on port 1883.
+1744004870: Client M5StackClient already connected, closing old connection.
+1744004870: New client connected from 172.18.0.1:56738 as M5StackClient (p2, c1, k15).
+1744004873: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744004952: Client M5StackClient closed its connection.
+1744004962: New connection from 172.18.0.1:58388 on port 1883.
+1744004962: New client connected from 172.18.0.1:58388 as M5StackClient (p2, c1, k15).
+1744005012: Client M5StackClient closed its connection.
+1744005013: New connection from 172.18.0.1:34938 on port 1883.
+1744005013: New client connected from 172.18.0.1:34938 as M5StackClient (p2, c1, k15).
+1744005033: Client 1234 has exceeded timeout, disconnecting.
+1744005037: New connection from 172.18.0.1:54294 on port 1883.
+1744005037: New client connected from 172.18.0.1:54294 as 1234 (p5, c1, k60).
+1744005043: Client M5StackClient closed its connection.
+1744005111: New connection from 172.18.0.1:51120 on port 1883.
+1744005111: New client connected from 172.18.0.1:51120 as M5StackClient (p2, c1, k15).
+1744005162: Client M5StackClient closed its connection.
+1744005163: New connection from 172.18.0.1:37596 on port 1883.
+1744005163: New client connected from 172.18.0.1:37596 as M5StackClient (p2, c1, k15).
+1744005192: Client M5StackClient closed its connection.
+1744005261: New connection from 172.18.0.1:52042 on port 1883.
+1744005261: New client connected from 172.18.0.1:52042 as M5StackClient (p2, c1, k15).
+1744005293: Client M5StackClient closed its connection.
+1744005360: New connection from 172.18.0.1:56252 on port 1883.
+1744005360: New client connected from 172.18.0.1:56252 as M5StackClient (p2, c1, k15).
+1744005362: New connection from 172.18.0.1:56262 on port 1883.
+1744005362: New client connected from 172.18.0.1:56262 as ESP32Client (p2, c1, k15).
+1744005398: Client M5StackClient closed its connection.
+1744005412: New connection from 172.18.0.1:54332 on port 1883.
+1744005412: New client connected from 172.18.0.1:54332 as M5StackClient (p2, c1, k15).
+1744005442: Client M5StackClient closed its connection.
+1744005445: Client ESP32Client has exceeded timeout, disconnecting.
+1744005494: New connection from 172.18.0.1:37074 on port 1883.
+1744005494: New client connected from 172.18.0.1:37074 as M5StackClient (p2, c1, k15).
+1744005634: Client 1234 has exceeded timeout, disconnecting.
+1744005636: New connection from 172.18.0.1:34442 on port 1883.
+1744005636: Client M5StackClient already connected, closing old connection.
+1744005636: New client connected from 172.18.0.1:34442 as M5StackClient (p2, c1, k15).
+1744005638: New connection from 172.18.0.1:34452 on port 1883.
+1744005638: New client connected from 172.18.0.1:34452 as 1234 (p5, c1, k60).
+1744005697: Client M5StackClient closed its connection.
+1744005783: New connection from 172.18.0.1:38136 on port 1883.
+1744005783: New client connected from 172.18.0.1:38136 as M5StackClient (p2, c1, k15).
+1744005826: Client M5StackClient closed its connection.
+1744005904: New connection from 172.18.0.1:49922 on port 1883.
+1744005904: New client connected from 172.18.0.1:49922 as M5StackClient (p2, c1, k15).
+1744005943: Client M5StackClient closed its connection.
+1744006031: New connection from 172.18.0.1:53474 on port 1883.
+1744006031: New client connected from 172.18.0.1:53474 as M5StackClient (p2, c1, k15).
+1744006049: New connection from 172.18.0.1:57808 on port 1883.
+1744006049: Client M5StackClient already connected, closing old connection.
+1744006049: New client connected from 172.18.0.1:57808 as M5StackClient (p2, c1, k15).
+1744006053: Client 1234 has exceeded timeout, disconnecting.
+1744006057: New connection from 172.18.0.1:34730 on port 1883.
+1744006057: New client connected from 172.18.0.1:34730 as 1234 (p5, c1, k60).
+1744006137: Client nodered_c7dc88a0b962c526 disconnected.
+1744006137: New connection from 172.18.0.1:50058 on port 1883.
+1744006137: New client connected from 172.18.0.1:50058 as nodered_8ca6ae72f948adcd (p2, c1, k60).
+1744006146: Client nodered_8ca6ae72f948adcd disconnected.
+1744006146: New connection from 172.18.0.1:40232 on port 1883.
+1744006146: New client connected from 172.18.0.1:40232 as nodered_9acfc7ab03d7954a (p2, c1, k60).
+1744006198: New connection from 172.18.0.1:54056 on port 1883.
+1744006198: New client connected from 172.18.0.1:54056 as ESP32Client (p2, c1, k15).
+1744006221: Client ESP32Client has exceeded timeout, disconnecting.
+1744006348: New connection from 172.18.0.1:38078 on port 1883.
+1744006348: Client M5StackClient already connected, closing old connection.
+1744006348: New client connected from 172.18.0.1:38078 as M5StackClient (p2, c1, k15).
+1744006376: New connection from 172.18.0.1:32768 on port 1883.
+1744006376: New client connected from 172.18.0.1:32768 as ESP32Client (p2, c1, k15).
+1744006435: New connection from 172.18.0.1:49632 on port 1883.
+1744006435: Client M5StackClient already connected, closing old connection.
+1744006435: New client connected from 172.18.0.1:49632 as M5StackClient (p2, c1, k15).
+1744006549: Client ESP32Client has exceeded timeout, disconnecting.
+1744006593: Client 1234 has exceeded timeout, disconnecting.
+1744006597: New connection from 172.18.0.1:33092 on port 1883.
+1744006597: New client connected from 172.18.0.1:33092 as 1234 (p5, c1, k60).
+1744006674: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744007013: Client 1234 has exceeded timeout, disconnecting.
+1744007017: New connection from 172.18.0.1:45902 on port 1883.
+1744007017: New client connected from 172.18.0.1:45902 as 1234 (p5, c1, k60).
+1744007182: Client nodered_9acfc7ab03d7954a disconnected.
+1744007182: New connection from 172.18.0.1:40488 on port 1883.
+1744007182: New client connected from 172.18.0.1:40488 as nodered_c2c7e396b62901cd (p2, c1, k60).
+1744007206: Client nodered_c2c7e396b62901cd disconnected.
+1744007206: New connection from 172.18.0.1:46246 on port 1883.
+1744007206: New client connected from 172.18.0.1:46246 as nodered_dfb875b8c9c5ea46 (p2, c1, k60).
+1744007433: Client 1234 has exceeded timeout, disconnecting.
+1744007437: New connection from 172.18.0.1:55980 on port 1883.
+1744007437: New client connected from 172.18.0.1:55980 as 1234 (p5, c1, k60).
+1744007853: Client 1234 has exceeded timeout, disconnecting.
+1744007857: New connection from 172.18.0.1:33056 on port 1883.
+1744007857: New client connected from 172.18.0.1:33056 as 1234 (p5, c1, k60).
+1744008381: New connection from 172.18.0.1:59092 on port 1883.
+1744008381: Client M5StackClient already connected, closing old connection.
+1744008381: New client connected from 172.18.0.1:59092 as M5StackClient (p2, c1, k15).
+1744008475: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744008825: Client M5StackClient closed its connection.
+1744008825: New connection from 172.18.0.1:54440 on port 1883.
+1744008825: New client connected from 172.18.0.1:54440 as M5StackClient (p2, c1, k15).
+1744009139: New connection from 172.18.0.1:40772 on port 1883.
+1744009139: Client M5StackClient already connected, closing old connection.
+1744009139: New client connected from 172.18.0.1:40772 as M5StackClient (p2, c1, k15).
+1744009173: Client 1234 has exceeded timeout, disconnecting.
+1744009177: New connection from 172.18.0.1:58554 on port 1883.
+1744009177: New client connected from 172.18.0.1:58554 as 1234 (p5, c1, k60).
+1744009343: Client M5StackClient closed its connection.
+1744009343: New connection from 172.18.0.1:60950 on port 1883.
+1744009343: New client connected from 172.18.0.1:60950 as M5StackClient (p2, c1, k15).
+1744009408: New connection from 172.18.0.1:47658 on port 1883.
+1744009408: New client connected from 172.18.0.1:47658 as ESP32Client (p2, c1, k15).
+1744009653: Client 1234 has exceeded timeout, disconnecting.
+1744009657: New connection from 172.18.0.1:45136 on port 1883.
+1744009657: New client connected from 172.18.0.1:45136 as 1234 (p5, c1, k60).
+1744009748: Client 1234 has exceeded timeout, disconnecting.
+1744009787: New connection from 172.18.0.1:52102 on port 1883.
+1744009787: Client M5StackClient already connected, closing old connection.
+1744009787: New client connected from 172.18.0.1:52102 as M5StackClient (p2, c1, k15).
+1744009947: Client M5StackClient has exceeded timeout, disconnecting.
+1744009963: Client ESP32Client closed its connection.
+1744009979: New connection from 172.18.0.1:50854 on port 1883.
+1744009979: New client connected from 172.18.0.1:50854 as ESP32Client (p2, c1, k15).
+1744010002: Client ESP32Client has exceeded timeout, disconnecting.
+1744010002: New connection from 172.18.0.1:46196 on port 1883.
+1744010002: New client connected from 172.18.0.1:46196 as ESP32Client (p2, c1, k15).
+1744010043: New connection from 172.18.0.1:50086 on port 1883.
+1744010043: New client connected from 172.18.0.1:50086 as M5StackClient (p2, c1, k15).
+1744010276: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744012077: Saving in-memory database to /mosquitto/data//mosquitto.db.
