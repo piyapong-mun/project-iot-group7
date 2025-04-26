@@ -25,5 +25,8 @@
     1. เข้าไปที่ `project-iot-group7/Arduino-Code/` จะมี สอง folder **M5stack** และ **ESP32** และภายในทั้ง 2 Folder นี้จะเป็น arduino code
     2.  แก้ไข WiFi ssid, password ภายใน file code จากทั้งสอง folder นี้
     3.  แก้ mqtt server เป็น IP ของเครื่องนี้ ภายใน file code จากทั้งสอง folder นี้
-    4. upload Code ให้กับ ทั้งสอง อุปกรณ์ คือ **M5Stak** และ **ESP32**
-    5. รอ M5Stak และ ESP32 เชื่อมต่อกับ mosquitto
+    4.  Add model ไปที่ Arduino
+       1. ใน Arduino: `sketch > Include Library > Add .zip libraries
+       2. เลือก File .zip Libary ของ Model ที่ `project-iot-group7/Model-zip/ei-ml-group7-arduino-1.0.2.zip`
+    6. upload Code ให้กับ ทั้งสอง อุปกรณ์ คือ **M5Stak** และ **ESP32**
+    7. รอ M5Stak และ ESP32 เชื่อมต่อกับ mosquitto
