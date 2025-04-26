@@ -1,8 +1,8 @@
 # Office Syndrome Prevention System (Project IOT Group7)
 ## ขั้นตอนการตั้งค่าและใช้งาน
-1. ทำการ Clone Project นี้ผ่าน `git clone https://github.com/piyapong-mun/project-iot-group7.git`
+1. ทำการ Clone Project นี้ผ่าน `git clone https://github.com/piyapong-mun/project-iot-group7.git` (หากยังไม่มีไฟล์และSource code)
 2. ทำการ Up docker compose 
-   1. เข้า Directory /Docker-Compose `cd Docker-Compose`
+   1. เข้า Directory /Docker-Compose `cd project-iot-group7/Docker-Compose/`
    2. Up docker compose `docker compose up`
   
    เพิ่มเติม ใน Dokcer compose จะมี 2 Services หลักคือ :
