@@ -22,11 +22,11 @@
     4. ทดสอบ delploy
        - หน้า UI จะอยู่ตรง `http://localhost:1880/ui/` 
 4. upload Code 
-    1. เข้าไปที่ `project-iot-group7/Arduino-Code/` จะมี สอง folder **M5stack** และ **ESP32** และภายในทั้ง 2 Folder นี้จะเป็น arduino code
+    1. เข้าไปที่ `project-iot-group7/Arduino-Code/` จะมี สอง folder **M5stack** และ **ESP32** และภายในทั้ง 2 Folder นี้จะเป็น arduino code `M5stack.ino` และ `ESP32.ino`
     2.  แก้ไข WiFi ssid, password ภายใน file code จากทั้งสอง folder นี้
     3.  แก้ mqtt server เป็น IP ของเครื่องนี้ ภายใน file code จากทั้งสอง folder นี้
-    4.  Add model ไปที่ Arduino
-       1. ใน Arduino: `sketch > Include Library > Add .zip libraries
-       2. เลือก File .zip Libary ของ Model ที่ `project-iot-group7/Model-zip/ei-ml-group7-arduino-1.0.2.zip`
+    4.  Add model ไปที่ Arduino สำหรับไฟล์ `M5stack.ino`
+        1. ใน Arduino: `sketch > Include Library > Add .zip libraries
+        2. เลือก File .zip Libary ของ Model ที่ `project-iot-group7/Model-zip/ei-ml-group7-arduino-1.0.2.zip`
     6. upload Code ให้กับ ทั้งสอง อุปกรณ์ คือ **M5Stak** และ **ESP32**
     7. รอ M5Stak และ ESP32 เชื่อมต่อกับ mosquitto
