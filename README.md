@@ -24,5 +24,6 @@
 4. upload Code 
     1. เข้าไปที่ `project-iot-group7/Arduino-Code/` จะมี สอง folder **M5stack** และ **ESP32** และภายในทั้ง 2 Folder นี้จะเป็น arduino code
     2.  แก้ไข WiFi ssid, password ภายใน file code จากทั้งสอง folder นี้
-    3. upload Code ให้กับ ทั้งสอง อุปกรณ์ คือ **M5Stak** และ **ESP32**
-    4. รอ M5Stak และ ESP32 เชื่อมต่อกับ mosquitto
+    3.  แก้ mqtt server เป็น IP ของเครื่องนี้
+    4. upload Code ให้กับ ทั้งสอง อุปกรณ์ คือ **M5Stak** และ **ESP32**
+    5. รอ M5Stak และ ESP32 เชื่อมต่อกับ mosquitto
